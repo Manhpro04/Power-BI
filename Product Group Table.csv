@@ -1,0 +1,10 @@
+ProductGroupID,GroupName,Description,ParentGroupID,CreationDate,LastModifiedDate,Status,Visibility,Notes
+1,Computers & Tablets,"Desktop, laptop and tablet computers",NULL,1/1/2022,6/15/2023,Active,Public,Main product group for all computing devices
+2,Laptops,Portable personal computers,1,3/1/2022,5/1/2023,Active,Public,Includes various laptop models from top brands
+3,Tablets,Handheld touch-screen computing devices,1,4/15/2022,4/20/2023,Active,Public,Covers different tablet operating systems and form factors
+4,Smartphones,Mobile cellular communication devices,1,2/15/2022,7/1/2023,Active,Public,Includes popular smartphone brands and models
+5,Memory & Storage,"System memory (RAM) and data storage (SSD, HDD)",NULL,2/1/2022,7/1/2023,Active,Public,Components for expanding computing capacity
+6,DDR4 RAM,High-speed computer memory modules,5,5/1/2022,6/1/2023,Active,Public,Includes popular RAM brands and specifications
+7,Solid State Drives (SSD),"Faster, more reliable data storage",5,6/1/2022,7/1/2023,Active,Public,Features the latest SSD technologies
+8,Hard Disk Drives (HDD),Traditional magnetic disk storage,5,7/1/2022,7/1/2023,Active,Public,Includes high-capacity HDD options
+9,Power Supplies,Computer power units (PSU),NULL,8/1/2022,8/1/2023,Active,Public,"For powering desktops, servers and other devices"

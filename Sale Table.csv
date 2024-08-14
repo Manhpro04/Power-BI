@@ -1,0 +1,202 @@
+﻿SaleID,CustomerID,ProductID,SaleDate,Quantity,UnitPrice,DiscountApplied,TotalAmount,PaymentMethod,Shipping,Address
+1001,1,5678,1/15/2023,2,799.99,0.1,1439.98,Credit Card,123 Main St, Anytown USA
+1002,2,6789,2/3/2023,1,899.99,0,899.99,PayPal,456 Oak Rd, Somewhere City
+1003,3,7890,3/22/2023,3,699.99,0.15,1764.97,Debit Card,789 Elm Ln, Anyplace State
+1004,4,8901,4/7/2023,1,999.99,0,999.99,Apple Pay,321 Pine St, Somewhere Else
+1005,5,9012,5/14/2023,2,749.99,0.2,1199.98,Credit Card,654 Oak Ave, Anytown USA
+1006,6,123,6/1/2023,1,849.99,0,849.99,PayPal,987 Maple Rd, Somewhere City
+1007,7,1234,7/11/2023,3,599.99,0.1,1619.97,Debit Card,246 Elm Ct, Anyplace State
+1008,8,2345,8/19/2023,1,949.99,0,949.99,Apple Pay,369 Pine Blvd, Somewhere Else
+1009,9,3456,9/2/2023,2,699.99,0.15,1189.98,Credit Card,753 Oak St, Anytown USA
+1010,10,4567,10/25/2023,1,799.99,0,799.99,PayPal,159 Maple Ave, Somewhere City
+1011,11,2468,11/6/2023,2,749.99,0.1,1349.98,Credit Card,963 Oak Ln, Anytown USA
+1012,12,3579,12/14/2023,1,899.99,0,899.99,PayPal,852 Maple St, Somewhere City
+1013,13,4680,1/5/2024,3,649.99,0.15,1624.97,Debit Card,741 Pine Rd, Anyplace State
+1014,14,5791,2/11/2024,1,949.99,0,949.99,Apple Pay,654 Elm Ave, Somewhere Else
+1015,15,6802,3/23/2024,2,699.99,0.2,1119.98,Credit Card,963 Oak Dr, Anytown USA
+1016,16,7913,4/9/2024,1,799.99,0,799.99,PayPal,741 Maple Ln, Somewhere City
+1017,17,8024,5/18/2024,3,549.99,0.1,1469.97,Debit Card,852 Pine St, Anyplace State
+1018,18,9135,6/2/2024,1,899.99,0,899.99,Apple Pay,654 Elm Blvd, Somewhere Else
+1019,19,246,7/14/2024,2,649.99,0.15,1099.98,Credit Card,963 Oak Rd, Anytown USA
+1020,20,1357,8/21/2024,1,749.99,0,749.99,PayPal,741 Maple Ave, Somewhere City
+1021,21,2468,9/7/2024,3,599.99,0.1,1619.97,Debit Card,852 Pine Rd, Anyplace State
+1022,22,3579,10/13/2024,1,949.99,0,949.99,Apple Pay,654 Elm St, Somewhere Else
+1023,23,4680,11/4/2024,2,699.99,0.2,1119.98,Credit Card,963 Oak Ln, Anytown USA
+1024,24,5791,12/19/2024,1,799.99,0,799.99,PayPal,741 Maple Blvd, Somewhere City
+1025,25,6802,1/8/2025,3,549.99,0.1,1469.97,Debit Card,852 Pine Ave, Anyplace State
+1026,26,7024,2/2/2025,2,749.99,0.1,1349.98,Credit Card,369 Elm St, Anytown USA
+1027,27,8135,3/11/2025,1,899.99,0,899.99,PayPal,258 Oak Rd, Somewhere City
+1028,28,9246,4/1/2025,3,649.99,0.15,1624.97,Debit Card,147 Pine Ave, Anyplace State
+1029,29,357,5/17/2025,1,949.99,0,949.99,Apple Pay,369 Maple Ln, Somewhere Else
+1030,30,1468,6/22/2025,2,699.99,0.2,1119.98,Credit Card,258 Elm Blvd, Anytown USA
+1031,31,2579,7/3/2025,1,799.99,0,799.99,PayPal,147 Oak St, Somewhere City
+1032,32,3680,8/15/2025,3,549.99,0.1,1469.97,Debit Card,369 Pine Rd, Anyplace State
+1033,33,4791,9/9/2025,1,899.99,0,899.99,Apple Pay,258 Maple Ave, Somewhere Else
+1034,34,5802,10/22/2025,2,649.99,0.15,1099.98,Credit Card,147 Elm Ln, Anytown USA
+1035,35,6913,11/1/2025,1,749.99,0,749.99,PayPal,369 Oak Dr, Somewhere City
+1036,36,7024,12/13/2025,3,599.99,0.1,1619.97,Debit Card,258 Pine St, Anyplace State
+1037,37,8135,1/4/2026,1,949.99,0,949.99,Apple Pay,147 Maple Blvd, Somewhere Else
+1038,38,9246,2/18/2026,2,699.99,0.2,1119.98,Credit Card,369 Elm Ave, Anytown USA
+1039,39,357,3/7/2026,1,799.99,0,799.99,PayPal,258 Oak Ln, Somewhere City
+1040,40,1468,4/26/2026,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1041,41,2680,5/11/2026,2,749.99,0.1,1349.98,Credit Card,369 Maple St, Anytown USA
+1042,42,3791,6/22/2026,1,899.99,0,899.99,PayPal,258 Elm Rd, Somewhere City
+1043,43,4802,7/3/2026,3,649.99,0.15,1624.97,Debit Card,147 Pine Ln, Anyplace State
+1044,44,5913,8/19/2026,1,949.99,0,949.99,Apple Pay,369 Oak Ave, Somewhere Else
+1045,45,6024,9/28/2026,2,699.99,0.2,1119.98,Credit Card,258 Maple Blvd, Anytown USA
+1046,46,7135,10/1/2026,1,799.99,0,799.99,PayPal,147 Elm St, Somewhere City
+1047,47,8246,11/17/2026,3,549.99,0.1,1469.97,Debit Card,369 Pine Dr, Anyplace State
+1048,48,9357,12/8/2026,1,899.99,0,899.99,Apple Pay,258 Oak Ln, Somewhere Else
+1049,49,468,1/20/2027,2,649.99,0.15,1099.98,Credit Card,147 Maple Rd, Anytown USA
+1050,50,1579,2/3/2027,1,749.99,0,749.99,PayPal,369 Elm Blvd, Somewhere City
+1051,51,2680,3/15/2027,3,599.99,0.1,1619.97,Debit Card,258 Pine Ave, Anyplace State
+1052,52,3791,4/1/2027,1,949.99,0,949.99,Apple Pay,147 Oak St, Somewhere Else
+1053,53,4802,5/23/2027,2,699.99,0.2,1119.98,Credit Card,369 Maple Ln, Anytown USA
+1054,54,5913,6/4/2027,1,799.99,0,799.99,PayPal,258 Elm Dr, Somewhere City
+1055,55,6024,7/28/2027,3,549.99,0.1,1469.97,Debit Card,147 Pine Rd, Anyplace State
+1056,56,7135,8/12/2027,1,949.99,0,949.99,Apple Pay,369 Oak Blvd, Somewhere Else
+1057,57,8246,9/24/2027,2,699.99,0.2,1119.98,Credit Card,258 Maple St, Anytown USA
+1058,58,9357,10/5/2027,1,799.99,0,799.99,PayPal,147 Elm Rd, Somewhere City
+1059,59,468,11/18/2027,3,549.99,0.1,1469.97,Debit Card,369 Pine Ln, Anyplace State
+1060,60,1579,12/11/2027,1,899.99,0,899.99,Apple Pay,258 Oak Ave, Somewhere Else
+1061,61,2680,1/2/2028,2,649.99,0.15,1099.98,Credit Card,147 Maple Blvd, Anytown USA
+1062,62,3791,2/27/2028,1,749.99,0,749.99,PayPal,369 Elm St, Somewhere City
+1063,63,4802,3/10/2028,3,599.99,0.1,1619.97,Debit Card,258 Pine Dr, Anyplace State
+1064,64,5913,4/22/2028,1,949.99,0,949.99,Apple Pay,147 Oak Ln, Somewhere Else
+1065,65,6024,5/1/2028,2,699.99,0.2,1119.98,Credit Card,369 Maple Rd, Anytown USA
+1066,66,7135,6/19/2028,1,799.99,0,799.99,PayPal,258 Elm Blvd, Somewhere City
+1067,67,8246,7/31/2028,3,549.99,0.1,1469.97,Debit Card,147 Pine Ave, Anyplace State
+1068,68,9357,8/14/2028,1,899.99,0,899.99,Apple Pay,369 Oak St, Somewhere Else
+1069,69,468,9/25/2028,2,649.99,0.15,1099.98,Credit Card,258 Maple Ln, Anytown USA
+1070,70,1579,10/8/2028,1,749.99,0,749.99,PayPal,147 Elm Dr, Somewhere City
+1071,71,2680,11/18/2028,3,599.99,0.1,1619.97,Debit Card,369 Pine Rd, Anyplace State
+1072,72,3791,12/1/2028,1,949.99,0,949.99,Apple Pay,258 Oak Blvd, Somewhere Else
+1073,73,4802,1/10/2029,2,699.99,0.2,1119.98,Credit Card,147 Maple St, Anytown USA
+1074,74,5913,2/22/2029,1,799.99,0,799.99,PayPal,369 Elm Rd, Somewhere City
+1075,75,6024,3/5/2029,3,549.99,0.1,1469.97,Debit Card,258 Pine Ln, Anyplace State
+1076,76,7135,4/18/2029,1,949.99,0,949.99,Apple Pay,147 Oak Ave, Somewhere Else
+1077,77,8246,5/27/2029,2,699.99,0.2,1119.98,Credit Card,369 Maple Blvd, Anytown USA
+1078,78,9357,6/12/2029,1,799.99,0,799.99,PayPal,258 Elm St, Somewhere City
+1079,79,468,7/29/2029,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1080,80,1579,8/9/2029,1,899.99,0,899.99,Apple Pay,369 Oak Ln, Somewhere Else
+1081,81,2680,9/20/2029,2,649.99,0.15,1099.98,Credit Card,258 Maple Rd, Anytown USA
+1082,82,3791,10/3/2029,1,749.99,0,749.99,PayPal,147 Elm Blvd, Somewhere City
+1083,83,4802,11/14/2029,3,599.99,0.1,1619.97,Debit Card,369 Pine Ave, Anyplace State
+1084,84,5913,12/1/2029,1,949.99,0,949.99,Apple Pay,258 Oak St, Somewhere Else
+1085,85,6024,1/12/2030,2,699.99,0.2,1119.98,Credit Card,147 Maple Ln, Anytown USA
+1086,86,7135,2/25/2030,1,799.99,0,799.99,PayPal,369 Elm Rd, Somewhere City
+1087,87,8246,3/8/2030,3,549.99,0.1,1469.97,Debit Card,258 Pine Ln, Anyplace State
+1088,88,9357,4/19/2030,1,899.99,0,899.99,Apple Pay,147 Oak Ave, Somewhere Else
+1089,89,468,5/7/2030,2,649.99,0.15,1099.98,Credit Card,369 Maple Blvd, Anytown USA
+1090,90,1579,6/14/2030,1,749.99,0,749.99,PayPal,258 Elm St, Somewhere City
+1091,91,2680,7/26/2030,3,599.99,0.1,1619.97,Debit Card,147 Pine Dr, Anyplace State
+1092,92,3791,8/2/2030,1,949.99,0,949.99,Apple Pay,369 Oak Ln, Somewhere Else
+1093,93,4802,9/13/2030,2,699.99,0.2,1119.98,Credit Card,258 Maple Rd, Anytown USA
+1094,94,5913,10/1/2030,1,799.99,0,799.99,PayPal,147 Elm Blvd, Somewhere City
+1095,95,6024,11/22/2030,3,549.99,0.1,1469.97,Debit Card,369 Pine Ave, Anyplace State
+1096,96,7135,12/7/2030,1,899.99,0,899.99,Apple Pay,258 Oak St, Somewhere Else
+1097,97,8246,1/18/2031,2,649.99,0.15,1099.98,Credit Card,147 Maple Ln, Anytown USA
+1098,98,9357,2/4/2031,1,749.99,0,749.99,PayPal,369 Elm Rd, Somewhere City
+1099,99,468,3/15/2031,3,599.99,0.1,1619.97,Debit Card,258 Pine Ln, Anyplace State
+1100,100,1579,4/9/2031,1,949.99,0,949.99,Apple Pay,147 Oak Ave, Somewhere Else
+1101,101,2680,5/20/2031,2,699.99,0.2,1119.98,Credit Card,369 Maple Blvd, Anytown USA
+1102,102,3791,6/7/2031,1,799.99,0,799.99,PayPal,258 Elm St, Somewhere City
+1103,103,4802,7/18/2031,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1104,104,5913,8/4/2031,1,949.99,0,949.99,Apple Pay,369 Oak Ln, Somewhere Else
+1105,105,6024,9/15/2031,2,649.99,0.15,1099.98,Credit Card,258 Maple Rd, Anytown USA
+1106,106,7135,10/1/2031,1,749.99,0,749.99,PayPal,147 Elm Blvd, Somewhere City
+1107,107,8246,11/12/2031,3,599.99,0.1,1619.97,Debit Card,369 Pine Ave, Anyplace State
+1108,108,9357,12/6/2031,1,899.99,0,899.99,Apple Pay,258 Oak St, Somewhere Else
+1109,109,468,1/17/2032,2,699.99,0.2,1119.98,Credit Card,147 Maple Ln, Anytown USA
+1110,110,1579,2/3/2032,1,799.99,0,799.99,PayPal,369 Elm Rd, Somewhere City
+1111,111,2680,3/14/2032,3,549.99,0.1,1469.97,Debit Card,258 Pine Ln, Anyplace State
+1112,112,3791,4/10/2032,1,949.99,0,949.99,Apple Pay,147 Oak Ave, Somewhere Else
+1113,113,4802,5/21/2032,2,649.99,0.15,1099.98,Credit Card,369 Maple Blvd, Anytown USA
+1114,114,5913,6/7/2032,1,749.99,0,749.99,PayPal,258 Elm St, Somewhere City
+1115,115,6024,7/18/2032,3,599.99,0.1,1619.97,Debit Card,147 Pine Dr, Anyplace State
+1116,116,7135,8/3/2032,1,899.99,0,899.99,Apple Pay,369 Oak Ln, Somewhere Else
+1117,117,8246,9/14/2032,2,699.99,0.2,1119.98,Credit Card,258 Maple Rd, Anytown USA
+1118,118,9357,10/1/2032,1,799.99,0,799.99,PayPal,147 Elm Blvd, Somewhere City
+1119,119,468,11/12/2032,3,549.99,0.1,1469.97,Debit Card,369 Pine Ave, Anyplace State
+1120,120,1579,12/6/2032,1,949.99,0,949.99,Apple Pay,258 Oak St, Somewhere Else
+1121,121,2680,1/17/2033,2,649.99,0.15,1099.98,Credit Card,147 Maple Ln, Anytown USA
+1122,122,3791,2/3/2033,1,749.99,0,749.99,PayPal,369 Elm Rd, Somewhere City
+1123,123,4802,3/14/2033,3,599.99,0.1,1619.97,Debit Card,258 Pine Ln, Anyplace State
+1124,124,5913,4/10/2033,1,899.99,0,899.99,Apple Pay,147 Oak Ave, Somewhere Else
+1125,125,6024,5/21/2033,2,699.99,0.2,1119.98,Credit Card,369 Maple Blvd, Anytown USA
+1126,126,7135,6/7/2033,1,799.99,0,799.99,PayPal,258 Elm St, Somewhere City
+1127,127,8246,7/18/2033,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1128,128,9357,8/3/2033,1,949.99,0,949.99,Apple Pay,369 Oak Ln, Somewhere Else
+1129,129,468,9/14/2033,2,649.99,0.15,1099.98,Credit Card,258 Maple Rd, Anytown USA
+1130,130,1579,10/1/2033,1,749.99,0,749.99,PayPal,147 Elm Blvd, Somewhere City
+1131,131,2680,11/12/2033,3,599.99,0.1,1619.97,Debit Card,369 Pine Ave, Anyplace State
+1132,132,3791,12/6/2033,1,899.99,0,899.99,Apple Pay,258 Oak St, Somewhere Else
+1133,133,4802,1/17/2034,2,699.99,0.2,1119.98,Credit Card,147 Maple Ln, Anytown USA
+1134,134,5913,2/3/2034,1,799.99,0,799.99,PayPal,369 Elm Rd, Somewhere City
+1135,135,6024,3/14/2034,3,549.99,0.1,1469.97,Debit Card,258 Pine Ln, Anyplace State
+1136,136,7135,4/10/2034,1,949.99,0,949.99,Apple Pay,147 Oak Ave, Somewhere Else
+1137,137,8246,5/21/2034,2,649.99,0.15,1099.98,Credit Card,369 Maple Blvd, Anytown USA
+1138,138,9357,6/7/2034,1,749.99,0,749.99,PayPal,258 Elm St, Somewhere City
+1139,139,468,7/18/2034,3,599.99,0.1,1619.97,Debit Card,147 Pine Dr, Anyplace State
+1140,140,1579,8/3/2034,1,899.99,0,899.99,Apple Pay,369 Oak Ln, Somewhere Else
+1141,141,2680,9/14/2034,2,699.99,0.2,1119.98,Credit Card,258 Maple Rd, Anytown USA
+1142,142,3791,10/1/2034,1,799.99,0,799.99,PayPal,147 Elm Blvd, Somewhere City
+1143,143,4802,11/12/2034,3,549.99,0.1,1469.97,Debit Card,369 Pine Ave, Anyplace State
+1144,144,5913,12/6/2034,1,949.99,0,949.99,Apple Pay,258 Oak St, Somewhere Else
+1145,145,6024,1/17/2035,2,649.99,0.15,1099.98,Credit Card,147 Maple Ln, Anytown USA
+1146,146,7135,2/3/2035,1,749.99,0,749.99,PayPal,369 Elm Rd, Somewhere City
+1147,147,8246,3/14/2035,3,599.99,0.1,1619.97,Debit Card,258 Pine Ln, Anyplace State
+1148,148,9357,4/10/2035,1,899.99,0,899.99,Apple Pay,147 Oak Ave, Somewhere Else
+1149,149,468,5/21/2035,2,699.99,0.2,1119.98,Credit Card,369 Maple Blvd, Anytown USA
+1150,150,1579,6/7/2035,1,799.99,0,799.99,PayPal,258 Elm St, Somewhere City
+1151,151,2680,7/18/2035,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1152,152,3791,8/3/2035,1,949.99,0,949.99,Apple Pay,369 Oak Ln, Somewhere Else
+1153,153,4802,9/14/2035,2,649.99,0.15,1099.98,Credit Card,258 Maple Rd, Anytown USA
+1154,154,5913,10/1/2035,1,749.99,0,749.99,PayPal,147 Elm Blvd, Somewhere City
+1155,155,6024,11/12/2035,3,599.99,0.1,1619.97,Debit Card,369 Pine Ave, Anyplace State
+1156,156,7135,12/6/2035,1,899.99,0,899.99,Apple Pay,258 Oak St, Somewhere Else
+1157,157,8246,1/17/2036,2,699.99,0.2,1119.98,Credit Card,147 Maple Ln, Anytown USA
+1158,158,9357,2/3/2036,1,799.99,0,799.99,PayPal,369 Elm Rd, Somewhere City
+1159,159,468,3/14/2036,3,549.99,0.1,1469.97,Debit Card,258 Pine Ln, Anyplace State
+1160,160,1579,4/10/2036,1,949.99,0,949.99,Apple Pay,147 Oak Ave, Somewhere Else
+1161,161,2680,5/21/2036,2,649.99,0.15,1099.98,Credit Card,369 Maple Blvd, Anytown USA
+1162,162,3791,6/7/2036,1,749.99,0,749.99,PayPal,258 Elm St, Somewhere City
+1163,163,4802,7/18/2036,3,599.99,0.1,1619.97,Debit Card,147 Pine Dr, Anyplace State
+1164,164,5913,8/3/2036,1,899.99,0,899.99,Apple Pay,369 Oak Ln, Somewhere Else
+1165,165,6024,9/14/2036,2,699.99,0.2,1119.98,Credit Card,258 Maple Rd, Anytown USA
+1166,166,7135,10/1/2036,1,799.99,0,799.99,PayPal,147 Elm Blvd, Somewhere City
+1167,167,8246,11/12/2036,3,549.99,0.1,1469.97,Debit Card,369 Pine Ave, Anyplace State
+1168,168,9357,12/6/2036,1,949.99,0,949.99,Apple Pay,258 Oak St, Somewhere Else
+1169,169,468,1/17/2037,2,649.99,0.15,1099.98,Credit Card,147 Maple Ln, Anytown USA
+1170,170,1579,2/3/2037,1,749.99,0,749.99,PayPal,369 Elm Rd, Somewhere City
+1171,171,2680,3/14/2037,3,599.99,0.1,1619.97,Debit Card,258 Pine Ln, Anyplace State
+1172,172,3791,4/10/2037,1,899.99,0,899.99,Apple Pay,147 Oak Ave, Somewhere Else
+1173,173,4802,5/21/2037,2,699.99,0.2,1119.98,Credit Card,369 Maple Blvd, Anytown USA
+1174,174,5913,6/7/2037,1,799.99,0,799.99,PayPal,258 Elm St, Somewhere City
+1175,175,6024,7/18/2037,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1176,176,7135,8/3/2037,1,949.99,0,949.99,Apple Pay,369 Oak Ln, Somewhere Else
+1177,177,8246,9/14/2037,2,649.99,0.15,1099.98,Credit Card,258 Maple Rd, Anytown USA
+1178,178,9357,10/1/2037,1,749.99,0,749.99,PayPal,147 Elm Blvd, Somewhere City
+1179,179,468,11/12/2037,3,599.99,0.1,1619.97,Debit Card,369 Pine Ave, Anyplace State
+1180,180,1579,12/6/2037,1,899.99,0,899.99,Apple Pay,258 Oak St, Somewhere Else
+1181,181,2680,1/17/2038,2,699.99,0.2,1119.98,Credit Card,147 Maple Ln, Anytown USA
+1182,182,3791,2/3/2038,1,799.99,0,799.99,PayPal,369 Elm Rd, Somewhere City
+1183,183,4802,3/14/2038,3,549.99,0.1,1469.97,Debit Card,258 Pine Ln, Anyplace State
+1184,184,5913,4/10/2038,1,949.99,0,949.99,Apple Pay,147 Oak Ave, Somewhere Else
+1185,185,6024,5/21/2038,2,649.99,0.15,1099.98,Credit Card,369 Maple Blvd, Anytown USA
+1186,186,7135,6/7/2038,1,749.99,0,749.99,PayPal,258 Elm St, Somewhere City
+1187,187,8246,7/18/2038,3,599.99,0.1,1619.97,Debit Card,147 Pine Dr, Anyplace State
+1188,188,9357,8/3/2038,1,899.99,0,899.99,Apple Pay,369 Oak Ln, Somewhere Else
+1189,189,468,9/14/2038,2,699.99,0.2,1119.98,Credit Card,258 Maple Rd, Anytown USA
+1190,190,1579,10/1/2038,1,799.99,0,799.99,PayPal,147 Elm Blvd, Somewhere City
+1191,191,8246,11/12/2038,3,549.99,0.1,1469.97,Debit Card,369 Pine Ave, Anyplace State
+1192,192,9357,12/6/2038,1,949.99,0,949.99,Apple Pay,258 Oak St, Somewhere Else
+1193,193,468,1/17/2039,2,649.99,0.15,1099.98,Credit Card,147 Maple Ln, Anytown USA
+1194,194,1579,2/3/2039,1,749.99,0,749.99,PayPal,369 Elm Rd, Somewhere City
+1195,195,2680,3/14/2039,3,599.99,0.1,1619.97,Debit Card,258 Pine Ln, Anyplace State
+1196,196,3791,4/10/2039,1,899.99,0,899.99,Apple Pay,147 Oak Ave, Somewhere Else
+1197,197,4802,5/21/2039,2,699.99,0.2,1119.98,Credit Card,369 Maple Blvd, Anytown USA
+1198,198,5913,6/7/2039,1,799.99,0,799.99,PayPal,258 Elm St, Somewhere City
+1199,199,6024,7/18/2039,3,549.99,0.1,1469.97,Debit Card,147 Pine Dr, Anyplace State
+1200,200,7135,8/3/2039,1,949.99,0,949.99,Apple Pay,369 Oak Ln, Somewhere Else
+1201,,8246,9/14/2039,2,649.99,0.15,1099.98,Credit Card,258 Maple Rd, Anytown USA

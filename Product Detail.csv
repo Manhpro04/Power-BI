@@ -1,0 +1,52 @@
+ProductID,ProductName,Description,Brand,Manufacturer,CategoryID,UnitCost,UnitPrice,LaunchDate,WarrantyPeriod,ProductGroupID
+5678,iPhone 13 Pro,"Flagship smartphone with advanced camera, powerful performance, and impressive battery life.",Apple,Apple Inc.,1001,699.99,999.99,9/24/2021,12,4
+6789,Samsung Galaxy S21 Ultra,"Cutting-edge Android smartphone with a stunning display, powerful camera, and 5G connectivity.",Samsung,Samsung Electronics,1001,799.99,1199.99,1/29/2021,12,4
+7890,Google Pixel 6 Pro,"Flagship Android smartphone with a sleek design, excellent camera, and advanced AI features.",Google,Google LLC,1001,699.99,899.99,10/19/2021,12,3
+8901,OnePlus 9 Pro,"Premium flagship smartphone with a stunning display, fast charging, and a versatile camera system.",OnePlus,OnePlus Technology,1001,699.99,1099.99,3/23/2021,12,4
+9012,Oppo Find X3 Pro,"Flagship Android smartphone with a unique camera setup, advanced display, and 5G connectivity.",Oppo,Oppo Electronics,1001,799.99,1199.99,3/31/2021,12,5
+123,Xiaomi Mi 11 Ultra,"Flagship Android smartphone with a powerful camera setup, flagship performance, and advanced features.",Xiaomi,Xiaomi Inc.,1001,699.99,1099.99,4/23/2021,12,6
+1234,Sony Xperia 1 III,"Premium flagship smartphone with a 4K OLED display, advanced camera system, and 5G support.",Sony,Sony Corporation,1001,899.99,1299.99,6/11/2021,12,7
+2345,Samsung Galaxy Z Fold3 5G,"Innovative foldable smartphone with a large, flexible display and advanced multitasking capabilities.",Samsung,Samsung Electronics,1001,1499.99,1799.99,8/27/2021,12,8
+3456,iPhone 12 Pro Max,"Flagship smartphone with a stunning camera system, powerful performance, and 5G connectivity.",Apple,Apple Inc.,1001,999.99,1099.99,11/13/2020,12,9
+4567,Google Pixel 5,"Flagship Android smartphone with a clean design, excellent camera, and 5G support.",Google,Google LLC,1001,599.99,699.99,10/15/2020,12,5
+2468,OnePlus 8T,"Premium flagship smartphone with a smooth display, fast charging, and advanced camera features.",OnePlus,OnePlus Technology,1001,599.99,699.99,10/14/2020,12,4
+3579,Oppo Find X2 Pro,"Flagship Android smartphone with a stunning display, powerful camera system, and 5G connectivity.",Oppo,Oppo Electronics,1001,799.99,999.99,4/16/2020,12,5
+4680,Xiaomi Mi 10 Pro,"Flagship Android smartphone with a versatile camera setup, flagship performance, and advanced features.",Xiaomi,Xiaomi Inc.,1001,699.99,899.99,2/13/2020,12,3
+5791,Sony Xperia 5 II,"Premium flagship smartphone with a compact design, advanced camera system, and 5G support.",Sony,Sony Corporation,1001,799.99,999.99,9/17/2020,12,4
+6802,Samsung Galaxy Note20 Ultra 5G,"Premium flagship smartphone with a large display, powerful S Pen stylus, and 5G connectivity.",Samsung,Samsung Electronics,1001,1099.99,1299.99,8/21/2020,12,4
+7913,iPhone 12,"Flagship smartphone with a powerful A14 Bionic chip, advanced camera, and 5G connectivity.",Apple,Apple Inc.,1001,799.99,899.99,10/23/2020,12,4
+8024,Google Pixel 4a,"Mid-range Android smartphone with a great camera, clean software, and long-lasting battery.",Google,Google LLC,1002,349.99,399.99,8/3/2020,12,4
+9135,OnePlus Nord,"Mid-range Android smartphone with a smooth display, capable camera, and 5G support.",OnePlus,OnePlus Technology,1002,399.99,449.99,7/21/2020,12,5
+246,Oppo A54 5G,"Mid-range Android smartphone with a large display, quad-camera setup, and 5G connectivity.",Oppo,Oppo Electronics,1002,299.99,349.99,4/7/2021,12,6
+1357,Xiaomi Redmi Note 10 Pro,"Mid-range Android smartphone with a stunning AMOLED display, powerful camera, and long-lasting battery.",Xiaomi,Xiaomi Inc.,1002,299.99,349.99,3/4/2021,12,7
+2468,iPhone SE (2020),"Compact and affordable iPhone with a premium design, powerful A13 Bionic chip, and excellent camera.",Apple,Apple Inc.,1002,399.99,429.99,4/15/2020,12,8
+3579,Samsung Galaxy A52 5G,"Mid-range Android smartphone with a smooth 120Hz display, quad camera setup, and 5G connectivity.",Samsung,Samsung Electronics,1002,399.99,499.99,3/17/2021,12,6
+4680,Google Pixel 5a 5G,"Mid-range Android smartphone with a great camera, long-lasting battery, and 5G support.",Google,Google LLC,1002,449.99,499.99,8/17/2021,12,7
+5791,OnePlus Nord N10 5G,"Budget-friendly 5G smartphone with a 90Hz display, quad camera setup, and decent performance.",OnePlus,OnePlus Technology,1002,299.99,349.99,10/26/2020,12,9
+6802,Oppo Reno5 5G,"Mid-range Android smartphone with a sleek design, quad camera setup, and 5G connectivity.",Oppo,Oppo Electronics,1002,449.99,549.99,1/18/2021,12,9
+7024,Xiaomi Poco X3 Pro,Affordable flagship-level Android smartphone with a powerful Snapdragon 860 chip and great camera.,Xiaomi,Xiaomi Inc.,1002,299.99,349.99,3/22/2021,12,8
+8135,Sony Xperia 10 III,"Mid-range Android smartphone with a 6-inch OLED display, triple camera setup, and 5G support.",Sony,Sony Corporation,1002,449.99,499.99,5/14/2021,12,7
+9246,Samsung Galaxy Z Flip3 5G,"Innovative foldable smartphone with a compact design, flexible display, and 5G connectivity.",Samsung,Samsung Electronics,1001,999.99,1099.99,8/11/2021,12,6
+357,iPhone 13 mini,"Compact flagship smartphone with advanced camera, powerful performance, and impressive battery life.",Apple,Apple Inc.,1001,699.99,799.99,9/24/2021,12,5
+1468,Google Pixel 6,"Flagship Android smartphone with a sleek design, excellent camera, and advanced AI features.",Google,Google LLC,1001,599.99,699.99,10/19/2021,12,4
+2579,OnePlus 10 Pro,"Premium flagship smartphone with a stunning display, powerful camera, and advanced features.",OnePlus,OnePlus Technology,1001,799.99,999.99,1/11/2022,12,2
+3680,Oppo Find X5 Pro,"Flagship Android smartphone with a unique camera setup, advanced display, and 5G connectivity.",Oppo,Oppo Electronics,1001,899.99,1099.99,3/24/2022,12,7
+4791,Xiaomi 12 Pro,"Flagship Android smartphone with a powerful camera system, flagship performance, and advanced features.",Xiaomi,Xiaomi Inc.,1001,799.99,999.99,4/16/2022,12,1
+5802,Sony Xperia 1 IV,"Premium flagship smartphone with a 4K OLED display, advanced camera system, and 5G support.",Sony,Sony Corporation,1001,1199.99,1399.99,5/20/2022,12,1
+6913,Samsung Galaxy Z Fold4 5G,"Innovative foldable smartphone with a large, flexible display and advanced multitasking capabilities.",Samsung,Samsung Electronics,1001,1599.99,1899.99,8/26/2022,12,4
+7024,iPhone 14 Pro Max,"Flagship iPhone with a 48MP camera, always-on display, and powerful A16 Bionic chip.",Apple,Apple Inc.,1001,999.99,1099.99,9/16/2022,12,4
+8135,Google Pixel 7 Pro,"Premium flagship Android smartphone with an advanced camera system, sleek design, and 5G connectivity.",Google,Google LLC,1001,799.99,899.99,10/13/2022,12,5
+9246,Samsung Galaxy S23 Ultra,"Flagship Android smartphone with a versatile 200MP camera, powerful Snapdragon 8 Gen 2 chip, and S Pen support.",Samsung,Samsung Electronics,1001,1099.99,1199.99,2/17/2023,12,6
+357,OnePlus 11,"Premium flagship Android smartphone with a stunning display, advanced camera system, and fast charging.",OnePlus,OnePlus Technology,1001,799.99,899.99,1/4/2023,12,6
+1468,Oppo Find X6 Pro,"Flagship Android smartphone with a unique camera setup, advanced display, and 5G connectivity.",Oppo,Oppo Electronics,1001,999.99,1099.99,3/21/2023,12,4
+2680,Oppo Find X6 Pro,"Flagship Android smartphone with a unique camera setup, advanced display, and 5G connectivity.",Oppo,Oppo Electronics,1001,999.99,1099.99,3/21/2023,12,4
+3791,Vivo X90 Pro+,"Premium flagship Android smartphone with a powerful camera system, fast charging, and Snapdragon 8 Gen 2 chipset.",Vivo,Vivo Communication Technology,1001,1099.99,1199.99,1/9/2023,12,4
+4802,Xiaomi 13 Pro,"Flagship Android smartphone with a 50MP triple camera setup, Snapdragon 8 Gen 2 processor, and fast charging.",Xiaomi,Xiaomi Inc.,1001,999.99,1099.99,12/1/2022,12,8
+5913,Sony Xperia 1 V,"Premium flagship Android smartphone with a 4K OLED display, advanced camera capabilities, and Snapdragon 8 Gen 2 chip.",Sony,Sony Corporation,1001,1199.99,1299.99,5/11/2023,12,9
+6024,Asus Zenfone 9,"Compact flagship Android smartphone with a powerful Snapdragon 8+ Gen 1 processor, high-quality camera, and long-lasting battery.",Asus,ASUSTeK Computer Inc.,1001,799.99,899.99,7/28/2022,12,4
+7135,Nubia Red Magic 8 Pro,"Gaming-focused flagship Android smartphone with a high-refresh-rate display, advanced cooling system, and powerful Snapdragon 8 Gen 2 chip.",Nubia,Nubia Technology,1001,849.99,949.99,3/2/2023,12,4
+8246,Realme GT3 Neo,"Flagship-level Android smartphone with a 120Hz AMOLED display, 50MP triple camera setup, and 5G connectivity.",Realme,Realme Chongqing Mobile Telecommunications,1001,649.99,749.99,2/28/2023,12,3
+9357,iQOO 11 Pro,"Premium flagship Android smartphone with a 2K 120Hz AMOLED display, 50MP triple camera system, and 200W fast charging.",iQOO,iQOO Electronic Technology,1001,999.99,1099.99,12/2/2022,12,5
+468,Motorola Edge 30 Ultra,"Flagship Android smartphone with a 200MP camera, 144Hz OLED display, and Snapdragon 8+ Gen 1 processor.",Motorola,Motorola Mobility,1001,899.99,999.99,9/8/2022,12,4
+1579,Honor Magic5 Pro,"Premium flagship Android smartphone with a 6.81-inch OLED display, 100W fast charging, and an advanced camera system.",Honor,Honor Device Co.,1001,1099.99,1199.99,2/27/2023,12,4
+2680,Huawei Mate 50 Pro,"Flagship Android smartphone with a powerful camera setup, advanced display, and impressive battery life.",Huawei,Huawei Technologies,1001,1199.99,1299.99,9/6/2022,12,4
